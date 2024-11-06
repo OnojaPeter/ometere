@@ -6,7 +6,7 @@ const Deal = () => {
         <div className='flex justify-center items-center w-full'>
             <div className='relative w-[600px]'>
                 <div className='h-full w-full bg-black/30 md:bg-black/10 absolute top-0'></div>
-                <img className='h-[400px] w-[600px] object-cover object-center' src="/images/img1.webp" alt="" />
+                <img className='h-[400px] w-[600px] object-cover object-center' src="/images/img_2.webp" alt="" />
                 <div className="absolute -bottom-12 -right-24 z-[-2] h-[200px] w-[300px] bg-[radial-gradient(#ffffff55_1px,transparent_1px)] bg-[size:20px_20px]"></div>
             </div>
 

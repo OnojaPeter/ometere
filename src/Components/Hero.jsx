@@ -6,7 +6,7 @@ const Hero = () => {
         <div className='flex justify-center items-center w-full -mt-10 h-screen'>
             <div className='relative w-[400px]'>
                 <div className='h-full w-full bg-black/20 md:bg-black/10 absolute top-0'></div>
-                <img className='h-[500px] w-[400px] object-cover' src="/images/img4.webp" alt="" />
+                <img className='h-[500px] w-[400px] object-cover' src="/images/img_5.webp" alt="" />
                 <div className="absolute -bottom-12 -right-24 z-[-2] h-[200px] w-[300px] bg-[radial-gradient(#ffffff55_1px,transparent_1px)] bg-[size:20px_20px]"></div>
             </div>
 

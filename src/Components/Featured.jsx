@@ -3,15 +3,19 @@ import Card from './reuseables/Card';
 
 
 const products = [
+    { image: 'img_1.webp', name: 'cloth 1' },
     { image: 'scrunchies.webp', name: 'Scrunchies' },
-    { image: 'img2.webp', name: 'cloth 2' },
-    { image: 'img3.webp', name: 'cloth 3' },
-    { image: 'img4.webp', name: 'cloth 4' },
-    { image: "img5.webp", name: "cloth 5" },
-    { image: 'img6.webp', name: 'cloth 6' },
-    { image: 'img7.webp', name: 'cloth 7' },
-    { image: 'img8.webp', name: 'cloth 8' },
-    { image: "img1.webp", name: "cloth 1" },
+    { image: 'img_2.webp', name: 'cloth 2' },
+    { image: 'img_3.webp', name: 'cloth 3' },
+    { image: 'img_4.webp', name: 'cloth 4' },
+    { image: "img_5.webp", name: "cloth 5" },
+    { image: 'img_6.webp', name: 'cloth 6' },
+    { image: 'img_7.webp', name: 'cloth 7' },
+    { image: 'img_8.webp', name: 'cloth 8' },
+    { image: "img_9.webp", name: "cloth 9" },
+    { image: 'img_10.webp', name: 'cloth 10' },
+    { image: 'img_11.webp', name: 'cloth 11' },
+    { image: "img_12.webp", name: "cloth 12" },
 ]
 
 const Featured = () => {
